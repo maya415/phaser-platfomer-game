@@ -1,0 +1,2 @@
+spritesheets: 1 frame: 32x32
+fruits: 24x24
